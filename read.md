@@ -30,4 +30,7 @@ hence we require a middleware  to stop stop dispacth acess and  and callthe disp
 in case multiple state   getstate (state of whole state) while state is locl state 
 // ek reducer me usi ki state change hogi
 
+store =[state ,reducer,dispatch]
+action{type:,payload:}
+
 
