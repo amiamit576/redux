@@ -34,3 +34,9 @@ store =[state ,reducer,dispatch]
 action{type:,payload:}
 
 
+
+
+
+==================================================================================================================================================================================================
+react-redux
+ react-redux library work to link react state with redux state
